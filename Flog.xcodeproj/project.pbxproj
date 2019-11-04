@@ -14,6 +14,7 @@
 		638DE9B4236F0F2F00586B6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 638DE9B3236F0F2F00586B6C /* Assets.xcassets */; };
 		638DE9B7236F0F2F00586B6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 638DE9B5236F0F2F00586B6C /* LaunchScreen.storyboard */; };
 		638DE9BF236F18FF00586B6C /* DesignableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638DE9BE236F18FF00586B6C /* DesignableView.swift */; };
+		638DE9C12370D54500586B6C /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638DE9C02370D54500586B6C /* UIViewController+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		638DE9B6236F0F2F00586B6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		638DE9B8236F0F2F00586B6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		638DE9BE236F18FF00586B6C /* DesignableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignableView.swift; sourceTree = "<group>"; };
+		638DE9C02370D54500586B6C /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				638DE9B5236F0F2F00586B6C /* LaunchScreen.storyboard */,
 				638DE9B8236F0F2F00586B6C /* Info.plist */,
 				638DE9BE236F18FF00586B6C /* DesignableView.swift */,
+				638DE9C02370D54500586B6C /* UIViewController+Extensions.swift */,
 			);
 			path = Flog;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				638DE9BF236F18FF00586B6C /* DesignableView.swift in Sources */,
 				638DE9AF236F0F2C00586B6C /* ViewController.swift in Sources */,
+				638DE9C12370D54500586B6C /* UIViewController+Extensions.swift in Sources */,
 				638DE9AB236F0F2C00586B6C /* AppDelegate.swift in Sources */,
 				638DE9AD236F0F2C00586B6C /* SceneDelegate.swift in Sources */,
 			);
